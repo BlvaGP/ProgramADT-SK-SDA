@@ -1,4 +1,6 @@
 //file queue.h
+#ifndef QUEUE_H
+#define QUEUE_H
 #include "LinkedList.h"
 
 typedef struct {
@@ -12,3 +14,5 @@ void dequeue(Queue *Q, item *info);
 void printCart(Queue *Q);
 int countQueue(Queue *Q);
 void deleteFromCart(Queue *Q, item info);
+
+#endif
