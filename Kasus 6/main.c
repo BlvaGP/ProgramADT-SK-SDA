@@ -1,4 +1,4 @@
-#include "case5.h"
+#include "case6.h"
 
 int main() {
     int input;
