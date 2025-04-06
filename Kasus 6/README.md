@@ -16,8 +16,8 @@ Program ini menggunakan teknik penulisan program yang modular (Modular Programmi
 - **convention.h**  : file header untuk membuat pengalisan
 - **LinkedList.h**  : file header yang berisikan struktur data list, dan header untuk modul-modul logika utama program
 - **LinkedList.c**  : file body yang berisikan algoritma dari modul-modul logika utama program
-- **kota.h**        : file header yang berisikan struktur data list, dan header untuk modul-modul logika manipulasi data kota dan penduduknya
-- **kota.c**        : file body yang berisikan algoritma modul-modul untuk manipulasi data kota dan penduduk yang memanggil modul-modul LinkedList
+- **kota6.h**        : file header yang berisikan struktur data list, dan header untuk modul-modul logika manipulasi data kota dan penduduknya
+- **kota6.c**        : file body yang berisikan algoritma modul-modul untuk manipulasi data kota dan penduduk yang memanggil modul-modul LinkedList
 - **case6.h**       : file header yang berisikan modul-modul untuk penanganan input pengguna
 - **case6.c**       : file body yang berisikan algoritma modul-modul penanganan input pengguna
 - **main.c**        : file body yang berisikan algoritma utama yang menyatukan seluruh logika program yang telah di buat di dalam ke-7 file sebelummnya
